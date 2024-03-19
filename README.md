@@ -45,7 +45,7 @@
 
 ###
 
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11100599469&width=600))
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=11100599469&width=900)
 
 
 
